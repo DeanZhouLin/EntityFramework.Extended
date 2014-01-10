@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Data.Metadata.Edm;
 using System.Diagnostics;
-using EntityFramework.Extensions;
 
 namespace EntityFramework.Mapping
 {

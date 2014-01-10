@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EntityFramework.Reflection
+﻿namespace EntityFramework.Reflection
 {
     /// <summary>
     /// An interface for member accessors.

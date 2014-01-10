@@ -1,4 +1,3 @@
-using System;
 using System.Data.Entity;
 using System.Data.Objects;
 using EntityFramework.Audit;

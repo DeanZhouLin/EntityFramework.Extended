@@ -1,5 +1,3 @@
-using System;
-
 namespace EntityFramework.Caching
 {
     /// <summary>

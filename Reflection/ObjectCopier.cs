@@ -4,12 +4,8 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Diagnostics;
-using System.IO;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.Threading;
 #if !SILVERLIGHT
-using System.Runtime.Serialization.Formatters.Binary;
+
 #endif
 
 namespace EntityFramework.Reflection

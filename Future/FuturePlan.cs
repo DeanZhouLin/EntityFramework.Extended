@@ -1,4 +1,3 @@
-using System;
 using System.Data.Objects;
 
 namespace EntityFramework.Future
